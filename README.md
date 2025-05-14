@@ -42,4 +42,4 @@ For general inquiries about the ICP community initiatives, please reach out thro
 
 ---
 
-*This index is maintained by the Dev Rel Syndicate team. Last updated: ![Last Updated](https://img.shields.io/github/last-commit/ICP-HUBS-DevRels-Syndicate/index-page/main?label=Last%20Updated&style=flat-square)* 
+*This index is maintained by the Dev Rel Syndicate team. Last updated: ![Last Updated](https://img.shields.io/github/last-commit/ICP-HUBS-DevRels-Syndicate/index-hub/main?label=Last%20Updated&style=flat-square)* 
