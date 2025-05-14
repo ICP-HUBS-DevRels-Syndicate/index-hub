@@ -25,7 +25,7 @@ Everything you need to organize or participate in ICP hackathons. (still in prog
 ### 🔹 Acceleration Hub (Coming Soon)
 A dedicated space for projects ready to move beyond hackathons.
 
-## 🚀 How to Use This Index
+## 🎯 How to Use This Index
 
 This page serves as:
 - The canonical link for sharing across hub networks
