@@ -22,7 +22,7 @@ A curated list of high-quality resources to assist ICP HUBs and DevRels in teach
 - Templates for kickstarting development in various topics  
 - DevTools to enhance the development experience  
 
-### 🔹 [Hackathons Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/hackathons-hub)
+### 🔹 [Hackathons Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub)
 Everything needed to organize an ICP hackathon:
 
 - Formats: Programming Competition or Startup Competition  
